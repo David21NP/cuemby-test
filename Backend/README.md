@@ -3,14 +3,14 @@
 ## Build setup
 
 ```bash
-# Build docker express conatiner
+# Build docker express container
 $ docker-compose build
 
 # Run all docker instances
 $ docker-compose up
 
-# Run shell of express container for fetching data fron easports
-docker-compose exec api bash
+# Run shell of express container for fetching data from easports
+$ docker-compose exec api bash
 ```
 
 ### Inside api container bash
