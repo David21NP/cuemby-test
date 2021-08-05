@@ -1,7 +1,7 @@
 # Backend algotrihm
 
 ### The specified function is in the file with the array being test in the same file
-### La fuincion que el problema requeria se encuentra en el archivo justo con un array de prueba y el testeo del mismo
+### La funcion que el problema requeria se encuentra en el archivo junto con un array de prueba y el testeo del mismo
 
 ## For runing with nodejs installed
 ```bash
