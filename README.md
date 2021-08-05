@@ -11,3 +11,6 @@
 
 
 ### Cada uno cuenta con su propio archivo readme.md explicando su funcionamiento
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
